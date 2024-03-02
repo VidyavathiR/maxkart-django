@@ -35,6 +35,7 @@ INSTALLED_APPS = [
     'category',
     'accounts',
     'store',
+    'carts',
     
     # django apps
     'django.contrib.admin',
