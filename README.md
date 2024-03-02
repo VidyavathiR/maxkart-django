@@ -1,0 +1,1 @@
+# maxkart-django
